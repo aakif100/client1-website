@@ -14,3 +14,11 @@ Please note that the full source code for the website is not publicly available 
 
 - **Email:** [your.email@example.com](mailto:aakifmohamed100@gmail.com)
 - **Issues:** [Create a new issue](https://github.com/aakif100/clicknvision-website/issues)
+
+
+
+## Code Snippets
+
+For those who are interested in the code, I may provide snippets depending on the level of trust established. Please reach out through the provided contact information.
+
+Thank you for your interest in ClicknVision!
