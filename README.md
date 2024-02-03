@@ -12,7 +12,7 @@ Please note that the full source code for the website is not publicly available 
 
 ## Contact Information
 
-- **Email:** [your.email@example.com](mailto:aakifmohamed100@gmail.com)
+- **Email:** [aakifmohamed100@gmail.com](mailto:aakifmohamed100@gmail.com)
 - **Issues:** [Create a new issue](https://github.com/aakif100/clicknvision-website/issues)
 
 
