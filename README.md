@@ -1,6 +1,6 @@
 # ClicknVision Website
 
-Welcome to the ClicknVision website repository! This repository DOES NOT contain the code for the ClicknVision website, a digital marketing company based in Mangalore.
+Welcome to the ClicknVision website repository! This repository DOES NOT contain the code for the ClicknVision website(THE REPO CONTAINING THE CODE HAS BEEN PRIVATED), a digital marketing company based in Mangalore.
 
 ## Preview
 
